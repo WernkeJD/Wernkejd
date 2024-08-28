@@ -27,6 +27,16 @@ I am a current Finance and CS student at the University of Cincinnati. I am pass
     </ul>
 </div>
 
+<div id="languages_im_learning">
+    <p>
+        <b>Languages I Want to Learn</b>
+    </p>
+    <ul>
+        <li>Rust</li>
+        <li>Go</li>
+    </ul>
+</div>
+
 <div id="hobbies_interests">
     <p>
         <b>Hobbies/Interest</b>
