@@ -2,7 +2,10 @@
 
 <p>Thanks for stopping by! 
 
-I am a current Finance and CS student at the University of Cincinnati. I am passionate about building new, innovative, and exciting products. You can check out some of my hobbies, intersts and current projects below.</p>
+I am a current Finance and CS student at the University of Cincinnati. I am passionate about building new, innovative, and exciting products. You can check out some of my hobbies, intersts and current projects below.
+
+P.S. AI made my profile pic :)
+</p>
 
 <div id="current_projects">
     <p>
