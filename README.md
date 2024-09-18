@@ -32,6 +32,16 @@ P.S. AI made my profile pic :)
     </ul>
 </div>
 
+<div id="languages_im_currently_learning">
+    <p>
+        <b>Languages I Want to Learn</b>
+    </p>
+    <ul>
+        <li>Java</li>
+        <li>MicroPython</li>
+    </ul>
+</div>
+
 <div id="languages_im_learning">
     <p>
         <b>Languages I Want to Learn</b>
