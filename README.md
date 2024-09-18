@@ -34,7 +34,7 @@ P.S. AI made my profile pic :)
 
 <div id="languages_im_currently_learning">
     <p>
-        <b>Languages I Want to Learn</b>
+        <b>Languages I am Currently Learning</b>
     </p>
     <ul>
         <li>Java</li>
