@@ -12,7 +12,8 @@ P.S. AI made my profile pic :)
         <b>My Current Projects </b>
     </p>
     <ul>
-        <li> Calorie Counter - A chrome extension that uses ChatGPT's API in combination with Edamams nutrition API to calculate the calories and macro nutrients of a given recipe page.</li>
+        <li> Calorie Counter - A chrome extension that uses ChatGPT's API in combination with Edamams nutrition API to calculate the calories and macronutrients of a given recipe page.</li>
+        <li>Cut the Crap - A web app that works in combination with the calorie counter extension, which takes any recipe site passed to it and distills it to only the necessary steps and processes.</li>
         <li> Advent of Code 2023 - I would love to participate in Advent of Code this upcoming year in 2024 so I have been going back and doing all the problems from 2023 as prep.</li>
         <li> Smart Handicap Sign - A smart handicap sign to let store operators know when a person in a handicap spot needs assistance.</li>
     </ul>
