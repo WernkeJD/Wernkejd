@@ -12,8 +12,7 @@ P.S. AI made my profile pic :)
         <b>My Current Projects </b>
     </p>
     <ul>
-        <li> Calorie Counter - A chrome extension that uses ChatGPT's API in combination with Edamams nutrition API to calculate the calories and macronutrients of a given recipe page.</li>
-        <li>Cut the Crap - A web app that works in combination with the calorie counter extension, which takes any recipe site passed to it and distills it to only the necessary steps and processes.</li>
+        <li> Deploy Box - A site that hosts pre-containerized versions of popular techstacks along with cloud hosting, payment processing, and authentication to support rapid development for developers of all skill sets. Also contains a market place to find full stack devs.</li>
         <li>Neal.Autoclicker - A script that automatically plays Stimulation Clicker on Neal.fun.</li>
     </ul>
 </div>
