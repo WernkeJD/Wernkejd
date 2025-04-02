@@ -12,7 +12,7 @@ P.S. AI made my profile pic :)
         <b>My Current Projects </b>
     </p>
     <ul>
-        <li> Deploy Box - A site that hosts pre-containerized versions of popular techstacks along with cloud hosting, payment processing, and authentication to support rapid development for developers of all skill sets. Also contains a market place to find full stack devs.</li>
+        <li> Deploy Box - A site that hosts pre-containerized versions of popular techstacks, which are automatically cloud hosted and include support for authentication and payment processing, to support rapid development for engineers of all skill sets.</li>
         <li>Neal.Autoclicker - A script that automatically plays Stimulation Clicker on Neal.fun.</li>
     </ul>
 </div>
